@@ -21,5 +21,5 @@ function mouseClicked(){
 }
 
 function mouseWheel(event) { 
-  sideMenu.menuRectY += event.delta / 5; 
+  sideMenu.menuRectY += event.delta / 3; 
 } 
